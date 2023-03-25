@@ -1,0 +1,14 @@
+/venv/
+/.idea/
+.DS_Store
+__pycache__
+
+# Version file
+version_file.txt
+
+# Build
+/build/
+/dist/
+
+# Update folder
+Update*
