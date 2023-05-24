@@ -1,0 +1,8 @@
+{
+  "app_name": "SmartDatabase",
+  "version": "0.0.0.1-alpha",
+  "version_code": 0,
+  "changelog": "Initial release\n",
+  "download_url_Darwin": "https://github.com/Ariollex/SmartDatabase/releases/latest",
+  "download_url_Windows": "https://github.com/Ariollex/SmartDatabase/releases/latest"
+}
