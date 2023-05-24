@@ -1,0 +1,8 @@
+{
+  "app_name": "SmartDatabase",
+  "version": "0.0.0.2-alpha",
+  "version_code": 9999,
+  "changelog": "Апрельское обновление программы \"Причинно-следственные связи в школе\". Из нововведений можно выделить:\n\nПоявление библиотеки KMeans. Теперь поиск причинно-следственных связей станет ещё точнее\nПоддержка системы обновления для программы\nПереработан интерфейс некоторых разделов\nУлучшение совместимости приложения для macOS\nИ многое другое",
+  "download_url_Darwin": "https://github.com/Ariollex/causal-relationships-in-school/releases/download/v0.3.0/v0.3.0-macOS.dmg",
+  "download_url_Windows": "https://github.com/Ariollex/causal-relationships-in-school/releases/download/v0.3.0/v0.3.0-Windows.zip"
+}
